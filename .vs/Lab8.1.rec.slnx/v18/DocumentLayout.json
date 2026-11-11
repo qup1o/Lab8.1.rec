@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u042F\u0440\u043E\u0441\u043B\u0430\u0432\\Lab8.1.rec\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD6FA96-55B4-D9A6-3B34-7EB302BF028B}|..\\UnitTest17\\UnitTest17.vcxproj|D:\\\u042F\u0440\u043E\u0441\u043B\u0430\u0432\\UnitTest17\\UnitTest17.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACEAFC45-F809-4303-80AF-35C45307A6F2}|Lab8.1.rec.vcxproj|D:\\\u042F\u0440\u043E\u0441\u043B\u0430\u0432\\Lab8.1.rec\\Lab8.1.rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ACEAFC45-F809-4303-80AF-35C45307A6F2}|Lab8.1.rec.vcxproj|solutionrelative:Lab8.1.rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest17.cpp",
+              "DocumentMoniker": "D:\\\u042F\u0440\u043E\u0441\u043B\u0430\u0432\\UnitTest17\\UnitTest17.cpp",
+              "RelativeDocumentMoniker": "..\\UnitTest17\\UnitTest17.cpp",
+              "ToolTip": "D:\\\u042F\u0440\u043E\u0441\u043B\u0430\u0432\\UnitTest17\\UnitTest17.cpp",
+              "RelativeToolTip": "..\\UnitTest17\\UnitTest17.cpp",
+              "ViewState": "AgIAABoAAAAAAAAAAAAcwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-11T00:39:02.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab8.1.rec.cpp",
+              "DocumentMoniker": "D:\\\u042F\u0440\u043E\u0441\u043B\u0430\u0432\\Lab8.1.rec\\Lab8.1.rec.cpp",
+              "RelativeDocumentMoniker": "Lab8.1.rec.cpp",
+              "ToolTip": "D:\\\u042F\u0440\u043E\u0441\u043B\u0430\u0432\\Lab8.1.rec\\Lab8.1.rec.cpp",
+              "RelativeToolTip": "Lab8.1.rec.cpp",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAcwGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-11T00:38:41.013Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
